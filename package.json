@@ -1,0 +1,22 @@
+{
+  "name": "solana-intro",
+  "version": "1.0.0",
+  "description": "Learning solana from day 1 devsnest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhil-pn/Solana-Introduction.git"
+  },
+  "author": "nikhil Pn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikhil-pn/Solana-Introduction/issues"
+  },
+  "homepage": "https://github.com/nikhil-pn/Solana-Introduction#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.78.0"
+  }
+}
