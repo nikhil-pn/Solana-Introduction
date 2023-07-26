@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nikhil-pn/Solana-Introduction#readme",
   "dependencies": {
+    "@project-serum/borsh": "^0.2.5",
     "@solana/web3.js": "^1.78.0"
   }
 }
